@@ -1,0 +1,27 @@
+{
+  "name": "expressjs-onion-provider",
+  "version": "1.0.0",
+  "description": "Provider for onion architecture in expressjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc src/index.ts"
+  },
+  "keywords": [],
+  "author": "Setya Wibawa",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/durianpeople/expressjs-onion-provider.git"
+  },
+  "bugs": {
+    "url": "https://github.com/durianpeople/expressjs-onion-provider/issues"
+  },
+  "homepage": "https://github.com/durianpeople/expressjs-onion-provider#readme",
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  },
+  "files": [
+    "dist/"
+  ]
+}
